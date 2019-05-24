@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/plateform.iml" filepath="$PROJECT_DIR$/plateform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plateform_base/plateform_base.iml" filepath="$PROJECT_DIR$/plateform_base/plateform_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plateform_common/plateform_common.iml" filepath="$PROJECT_DIR$/plateform_common/plateform_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plateform_search/plateform_search.iml" filepath="$PROJECT_DIR$/plateform_search/plateform_search.iml" />
     </modules>
   </component>
 </project>

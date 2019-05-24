@@ -1,0 +1,8 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: plateform-search
+  data:
+    elasticsearch:
+      cluster-nodes: 127.0.0.1:9300

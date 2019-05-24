@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-context:5.0.5.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

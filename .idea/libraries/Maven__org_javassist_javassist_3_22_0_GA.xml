@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.javassist:javassist:3.22.0-GA">
+    <CLASSES>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/javassist/javassist/3.22.0-GA/javassist-3.22.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/javassist/javassist/3.22.0-GA/javassist-3.22.0-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/soft/computer/google浏览器/黑马进阶/08-十次方/01-微服务/00-微服务资料/微服务资料/maven本地仓库/maven_repository/org/javassist/javassist/3.22.0-GA/javassist-3.22.0-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
